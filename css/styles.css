@@ -14,14 +14,6 @@ body {
 
 
 
-h2.intro {
-  color: blue;
-}
-
-p.intro {
-  color: blue;
-}
-
-img.intro {
-  color: blue;
+.intro{
+  color: purple;
 }
